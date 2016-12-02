@@ -1,5 +1,5 @@
 # vue.stu
 learning
 
-## use npm start to run http-server
+## use `npm start to run http-server`
 
